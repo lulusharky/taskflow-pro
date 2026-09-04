@@ -61,4 +61,3 @@ José Luís
 GitHub: lulusharky
 
 Built with ❤️ using modern web technologies
-text4. Guarda o ficheiro
