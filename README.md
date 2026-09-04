@@ -62,10 +62,3 @@ GitHub: lulusharky
 
 Built with ❤️ using modern web technologies
 text4. Guarda o ficheiro
-
-5. Depois corre:
-
-```bash
-git add README.md
-git commit -m "Clean README - resolve conflict"
-git push -u origin main
