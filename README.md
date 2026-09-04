@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow Pro 🚀
 
 A professional full-stack task management application built with modern technologies. TaskFlow Pro provides a clean, intuitive interface for managing tasks and projects, similar to simplified versions of Trello or Notion.
@@ -296,3 +297,7 @@ For support, email support@taskflowpro.com or open an issue in the repository.
 ---
 
 Built with ❤️ using modern web technologies
+=======
+# taskflow-pro
+Full Stack Task Management App built with React, TypeScript, FastAPI and SQLite. Features authentication, projects, tasks, filters and modern UI.
+>>>>>>> 19fd88ac0fc4e44a569d1282cf4de9379a9c7a37
